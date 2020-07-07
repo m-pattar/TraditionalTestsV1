@@ -87,18 +87,4 @@ public class Tasks extends BaseTest
 		
 	}
 	
-	
-	/*@Test(description="1")
-	public void cross_device_elements_test() throws Exception {
-		
-		gVar.hover();
-		
-		String script = "return window.getComputedStyle(document.querySelector('i.ti-heart'),':before').getPropertyValue('content')";
-		System.out.println("script:- "+ script);
-		JavascriptExecutor js = (JavascriptExecutor)driver;
-		String content = (String) js.executeScript(script);
-		System.out.println("**********8content:- "+content);
-		    
-		sa.assertAll();
-	}*/
 }
