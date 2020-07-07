@@ -1,0 +1,40 @@
+(BaseTest.java:230) - extReport - 2020-07-03 14:45:47,195 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:45:47,225 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:22) - cross_device_elements_test - 2020-07-03 14:45:47,240 - com.hackathon.task.Tasks -INFO - Verify the search field element
+(BaseTest.java:238) - endTest - 2020-07-03 14:45:59,607 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Ended in ChromeDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-03 14:45:59,608 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-03 14:45:59,612 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:45:59,634 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:42) - shopping_experience_test - 2020-07-03 14:45:59,656 - com.hackathon.task.Tasks -INFO - Click on Filter icon for mobile view
+(BaseTest.java:238) - endTest - 2020-07-03 14:46:10,692 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Ended in ChromeDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-03 14:46:10,693 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-03 14:46:10,695 - com.hackathon.task.Tasks -INFO - Test Case product_details_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:46:10,696 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:69) - product_details_test - 2020-07-03 14:46:10,707 - com.hackathon.task.Tasks -INFO - Collect the product price in PLP
+(Tasks.java:72) - product_details_test - 2020-07-03 14:46:11,689 - com.hackathon.task.Tasks -INFO - Click on first product in PLP
+(Tasks.java:75) - product_details_test - 2020-07-03 14:46:14,013 - com.hackathon.task.Tasks -INFO - Verify the product image in PDP
+(Tasks.java:78) - product_details_test - 2020-07-03 14:46:14,476 - com.hackathon.task.Tasks -INFO - Verify the product price in PDP
+(Tasks.java:82) - product_details_test - 2020-07-03 14:46:14,798 - com.hackathon.task.Tasks -INFO - Verify the selected Size in PDP
+(BaseTest.java:230) - extReport - 2020-07-03 14:46:30,678 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:46:30,679 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:22) - cross_device_elements_test - 2020-07-03 14:46:30,681 - com.hackathon.task.Tasks -INFO - Verify the search field element
+(BaseTest.java:238) - endTest - 2020-07-03 14:46:41,416 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Ended in ChromeDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-03 14:46:41,417 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-03 14:46:41,420 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:46:41,420 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:42) - shopping_experience_test - 2020-07-03 14:46:41,422 - com.hackathon.task.Tasks -INFO - Click on Filter icon for mobile view
+(Tasks.java:47) - shopping_experience_test - 2020-07-03 14:46:42,170 - com.hackathon.task.Tasks -INFO - Click on Black filter refinement
+(Tasks.java:50) - shopping_experience_test - 2020-07-03 14:46:43,389 - com.hackathon.task.Tasks -INFO - Collect the product count in filter section
+(Tasks.java:53) - shopping_experience_test - 2020-07-03 14:46:44,259 - com.hackathon.task.Tasks -INFO - Click on filter button
+(Tasks.java:57) - shopping_experience_test - 2020-07-03 14:46:45,548 - com.hackathon.task.Tasks -INFO - Collect the number of products in PLP
+(BaseTest.java:238) - endTest - 2020-07-03 14:46:45,997 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Ended in ChromeDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-03 14:46:45,998 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-03 14:46:45,999 - com.hackathon.task.Tasks -INFO - Test Case product_details_test  Started in ChromeDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-03 14:46:46,000 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:69) - product_details_test - 2020-07-03 14:46:46,002 - com.hackathon.task.Tasks -INFO - Collect the product price in PLP
+(Tasks.java:72) - product_details_test - 2020-07-03 14:46:46,359 - com.hackathon.task.Tasks -INFO - Click on first product in PLP
+(Tasks.java:75) - product_details_test - 2020-07-03 14:46:47,856 - com.hackathon.task.Tasks -INFO - Verify the product image in PDP
+(Tasks.java:78) - product_details_test - 2020-07-03 14:46:48,433 - com.hackathon.task.Tasks -INFO - Verify the product price in PDP
+(Tasks.java:82) - product_details_test - 2020-07-03 14:46:49,458 - com.hackathon.task.Tasks -INFO - Verify the selected Size in PDP
+(BaseTest.java:238) - endTest - 2020-07-03 14:46:49,943 - com.hackathon.task.Tasks -INFO - Test Case product_details_test  Ended in ChromeDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-03 14:46:49,943 - com.hackathon.task.Tasks -INFO - -------------------------------------------

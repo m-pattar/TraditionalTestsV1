@@ -1,0 +1,40 @@
+2020-07-03 14:45:47,195 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Started in ChromeDriverdriver
+2020-07-03 14:45:47,225 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:45:47,240 [main] INFO com.hackathon.task.Tasks - Verify the search field element
+2020-07-03 14:45:59,607 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Ended in ChromeDriverdriver
+2020-07-03 14:45:59,608 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:45:59,612 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Started in ChromeDriverdriver
+2020-07-03 14:45:59,634 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:45:59,656 [main] INFO com.hackathon.task.Tasks - Click on Filter icon for mobile view
+2020-07-03 14:46:10,692 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Ended in ChromeDriverdriver
+2020-07-03 14:46:10,693 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:10,695 [main] INFO com.hackathon.task.Tasks - Test Case product_details_test  Started in ChromeDriverdriver
+2020-07-03 14:46:10,696 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:10,707 [main] INFO com.hackathon.task.Tasks - Collect the product price in PLP
+2020-07-03 14:46:11,689 [main] INFO com.hackathon.task.Tasks - Click on first product in PLP
+2020-07-03 14:46:14,013 [main] INFO com.hackathon.task.Tasks - Verify the product image in PDP
+2020-07-03 14:46:14,476 [main] INFO com.hackathon.task.Tasks - Verify the product price in PDP
+2020-07-03 14:46:14,798 [main] INFO com.hackathon.task.Tasks - Verify the selected Size in PDP
+2020-07-03 14:46:30,678 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Started in ChromeDriverdriver
+2020-07-03 14:46:30,679 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:30,681 [main] INFO com.hackathon.task.Tasks - Verify the search field element
+2020-07-03 14:46:41,416 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Ended in ChromeDriverdriver
+2020-07-03 14:46:41,417 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:41,420 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Started in ChromeDriverdriver
+2020-07-03 14:46:41,420 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:41,422 [main] INFO com.hackathon.task.Tasks - Click on Filter icon for mobile view
+2020-07-03 14:46:42,170 [main] INFO com.hackathon.task.Tasks - Click on Black filter refinement
+2020-07-03 14:46:43,389 [main] INFO com.hackathon.task.Tasks - Collect the product count in filter section
+2020-07-03 14:46:44,259 [main] INFO com.hackathon.task.Tasks - Click on filter button
+2020-07-03 14:46:45,548 [main] INFO com.hackathon.task.Tasks - Collect the number of products in PLP
+2020-07-03 14:46:45,997 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Ended in ChromeDriverdriver
+2020-07-03 14:46:45,998 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:45,999 [main] INFO com.hackathon.task.Tasks - Test Case product_details_test  Started in ChromeDriverdriver
+2020-07-03 14:46:46,000 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-03 14:46:46,002 [main] INFO com.hackathon.task.Tasks - Collect the product price in PLP
+2020-07-03 14:46:46,359 [main] INFO com.hackathon.task.Tasks - Click on first product in PLP
+2020-07-03 14:46:47,856 [main] INFO com.hackathon.task.Tasks - Verify the product image in PDP
+2020-07-03 14:46:48,433 [main] INFO com.hackathon.task.Tasks - Verify the product price in PDP
+2020-07-03 14:46:49,458 [main] INFO com.hackathon.task.Tasks - Verify the selected Size in PDP
+2020-07-03 14:46:49,943 [main] INFO com.hackathon.task.Tasks - Test Case product_details_test  Ended in ChromeDriverdriver
+2020-07-03 14:46:49,943 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
